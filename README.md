@@ -1,34 +1,20 @@
-![Repository Banner](background.jpeg)
+![Repository Banner](ts_js.jpeg)
 
 ### Hi there 👋
 
 <br/>
 
-# I am [Dimitar Stoev](https://stoev.dev)
+# More about me [Dimitar Stoev](https://stoev.dev)
 
-Over the past 2 years, I've worked with small companies, big ones and start-ups to successfully help them reach their full potential and attract new customers.
+My name is Dimitar Stoev and I am a software engineer covering the entire field of developing from web applications, web technologies  and basic representative websites to mobile applications. 
 
-My focus is improving my clients businesses, through enjoyable and meaningful software. I specialize in responsive and automotive websites and applications.  
+I have been working in the field of Internet technologies since 2018 and am currently working for one of the biggest companies in the east coast of the republic of Bulgaria. I am a productivity geek and a strong believer of the hustle culture. Purpose driven with  get-it-done, on-time and high-quality product spirit!
 
+I am also a strong believer in open source and free education. I believe in real value. That is one of the reasons I started Open Source Society University. A community from engineers to engineers. It is exciting to live in times, when getting access to value is so free and open.
 
-<br/>
+Getting the skills and understanding of how technologies work and are implemented on the lower level is important to provide better and high quality service and consultation.
 
-### 𝗔𝗕𝗢𝗨𝗧
-I am a driven front-end developer with get-it-done, on-time and high-quality product spirit!
-
-<br/>
-
-### 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗜𝗘𝗦
-
-React and Angular are the tools, I am most comfortable with. I also work with Next.js Vue.js, plain JavaScript, HTML, CSS and express.js. My plan for the future is to continue with the front end development and expand into mobile development with Flutter and React Native.
-
-<br/>
-
-### 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
-
-I have worked and managed a lot of people with a diverse background. Thanks to that, my team working skills are in a good fit and I became a great problem solver. 
-
-My first code I wrote three years ago for my C# Unity game. I lunched it, made some other games, got a lot of downloads and learned enough to feel confident in front of the IDE. A year later I decited to step in the front end world and I am still developing till today.
+I prefer to work with serious technologies and write quality and well tested code. My preferred stack is Angular and VueJS in the front-end and NestJS, Express.js in the back end. 
 
 <br/>
 
