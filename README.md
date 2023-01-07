@@ -23,13 +23,6 @@ I prefer to work with serious technologies and write quality and well tested cod
 Want to hear me? 
 I'd love to chat!
 
-<br/>
-
-## 🌱 Github Stats
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=DimitarStBC&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 ## ⚒ Tools I use
 
