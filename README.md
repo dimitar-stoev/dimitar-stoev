@@ -20,7 +20,7 @@ Currently, I'm working on an open source SaaS CRM with options to create estimat
 
 <table>
   <tr>
-    <td><a href="dealixio.com"><img src="dealixio-github.jpg" /></a></td>
+    <td><a href="https://dealixio.com"><img src="dealixio-github.jpg" /></a></td>
   </tr>
 </table>
 
