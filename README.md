@@ -6,15 +6,13 @@
 
 # More about me [Dimitar Stoev](https://stoev.dev)
 
-My name is Dimitar Stoev and I am a software engineer covering the entire field of developing from web applications, web technologies  and basic representative websites to mobile applications. 
+My name is Dimitar Stoev, and I'm a software engineer with a passion for developing a wide range of applications, from web technologies and representative websites to mobile applications. I'm a productivity geek with a strong belief in the hustle culture, and I strive to get things done on time with a high-quality product spirit.
 
-I have been working in the field of Internet technologies since 2018 and am currently working for one of the biggest companies in the east coast of the republic of Bulgaria. I am a productivity geek and a strong believer of the hustle culture. Purpose driven with  get-it-done, on-time and high-quality product spirit!
+I'm a strong believer in open source and free education, and that's why I started the Open Source Society University. I'm excited to live in a time when access to value is so free and open, and I'm dedicated to giving back to the community.
 
-I am also a strong believer in open source and free education. I believe in real value. That is one of the reasons I started Open Source Society University. A community from engineers to engineers. It is exciting to live in times, when getting access to value is so free and open.
+I believe that understanding how technologies work and are implemented at a lower level is essential to providing better, high-quality service and consultation. That's why I prefer to work with serious technologies and write quality, well-tested code. My preferred stack includes Angular and VueJS on the frontend, and NestJS and Express.js on the backend.
 
-Getting the skills and understanding of how technologies work and are implemented on the lower level is important to provide better and high quality service and consultation.
-
-I prefer to work with serious technologies and write quality and well tested code. My preferred stack is Angular and VueJS in the front-end and NestJS, Express.js in the back end. 
+Currently, I'm working on an open source SaaS CRM with options to create estimations and invoices, and I'm excited to share it with the community. My goal is to create a system that is easy to use, customizable, and integrates with popular payment gateways for easy payment processing. I'm always eager to connect with other developers and entrepreneurs, so feel free to reach out and say hi!
 
 <br/>
 
