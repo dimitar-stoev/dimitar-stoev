@@ -1,4 +1,4 @@
-![Repository Banner](ts_js.jpeg)
+![Repository Banner](profile_banner.jpg)
 
 ### Hi there 👋
 
