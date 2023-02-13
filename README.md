@@ -20,8 +20,7 @@ Currently, I'm working on an open source SaaS CRM with options to create estimat
 
 <table>
   <tr>
-    <td><a href="dealixio.com"><img src="" /></a></td>
-    <td></td>
+    <td><a href="dealixio.com"><img src="dealixio-github.jpg" /></a></td>
   </tr>
 </table>
 
@@ -38,5 +37,5 @@ I'd love to chat!
 <br/>
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/dimitar-g-stoev/)
-[![](https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=00acee)](https://twitter.com/dimitar__stoev)
+[![](https://img.shields.io/twitter/follow/dimitar__stoev?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/dimitar__stoev)
 
