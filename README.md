@@ -24,6 +24,21 @@ Currently, I'm working on an open source SaaS CRM with options to create estimat
   </tr>
 </table>
 
+# Some of my articles
+
+🔸 [How I structure my angular applications](https://www.stoev.dev/blog/how-i-structure-my-angular-applications) <br/>
+🔸 [What is Blockchain and my opinion for it's future](https://www.stoev.dev/blog/what-is-blockchain) <br/>
+🔸 [Angular view children and content children](https://www.stoev.dev/blog/angular-view-children-and-content-children) <br/>
+🔸 [Angular data binding](https://www.stoev.dev/blog/angular-data-binding) <br/>
+
+I absolutely love writing articles, especially technical ones. Yes, I know it's not everyone's cup of tea, but there's just something about the challenge of explaining complex topics in a way that's easy for others to understand that gets me fired up.
+
+Some people may find it a bit nerdy or boring, but for me, it's like solving a puzzle. The feeling of accomplishment I get when I finally figure out how to explain a difficult concept in a way that clicks for someone else is just priceless.
+
+And let's not forget the humor - I mean, who doesn't love a good tech pun or two? Sometimes, when I'm writing, I like to throw in a joke or a witty comment just to keep things light and interesting.
+
+But in all seriousness, writing technical articles is not just a passion of mine, it's also a way for me to share my knowledge with others and help them to understand the things that I find fascinating. It's a way for me to give back to the community and hopefully make a positive impact on the world. So yeah, you could say I'm a bit of a geek, but hey, someone's got to do it!
+
 ### ✉️ Contact
 
 Want to hear me? 
