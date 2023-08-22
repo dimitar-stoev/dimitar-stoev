@@ -12,7 +12,6 @@ I'm a strong believer in open source and free education, and that's why I starte
 
 I believe that understanding how technologies work and are implemented at a lower level is essential to providing better, high-quality service and consultation. That's why I prefer to work with serious technologies and write quality, well-tested code. My preferred stack includes Angular and VueJS on the frontend, and NestJS and Express.js on the backend.
 
-Currently, I'm working on an open source SaaS CRM with options to create estimations and invoices, and I'm excited to share it with the community. My goal is to create a system that is easy to use, customizable, and integrates with popular payment gateways for easy payment processing. I'm always eager to connect with other developers and entrepreneurs, so feel free to reach out and say hi!
 
 <br/>
 
@@ -20,7 +19,7 @@ Currently, I'm working on an open source SaaS CRM with options to create estimat
 
 <table>
   <tr>
-    <td><a href="https://dealixio.com"><img src="dealixio-github.jpg" /></a></td>
+    <td><a href="https://dealixio.com"><img src="https://pbs.twimg.com/profile_banners/701452291652640769/1690796583/1500x500" /></a></td>
   </tr>
 </table>
 
