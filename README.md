@@ -19,7 +19,7 @@ I believe that understanding how technologies work and are implemented at a lowe
 
 <table>
   <tr>
-    <td><a href="https://dealixio.com"><img src="https://pbs.twimg.com/profile_banners/701452291652640769/1690796583/1500x500" /></a></td>
+    <td><a href="https://artiscapeboutique.com/"><img src="https://pbs.twimg.com/profile_banners/701452291652640769/1690796583/1500x500" /></a></td>
   </tr>
 </table>
 
