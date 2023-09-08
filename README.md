@@ -66,11 +66,3 @@ I'd love to chat!
 I am a passionate believer in stoicism and spiritual and mental growth. I have read a lot of books on the topics and made myself a promise to try to be a real stoic.
 
 And I think I am succeeding one step at a time.
-
-For all Bulgarians:
-
-I have made a stoic and mental growth community on Twitter ( X ).
-
-If you feel like joining - please send a request.
-
-<a href="https://stoev.link/community">Консерватори</a>
