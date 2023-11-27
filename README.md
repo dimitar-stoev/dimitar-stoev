@@ -1,5 +1,3 @@
-<a href="https://www.stoev.dev/blog/from-business-owner-to-software-developer" target="_blank"><img src="part_one.jpg" /></a>
-
 ### Hi there 👋🏻
 
 <br/>
