@@ -17,14 +17,14 @@ I believe that understanding how technologies work and are implemented at a lowe
 
 <table>
   <tr>
-    Artiscape Boutique - A platform for astrophotographers and space artist! Create your portfolio and share it with the world! A lot of features are planned!
+    Dealixio - invoices, Client management, proposals and quotes and more.
   </tr>
   <br/>
   <tr>
-    Click on the image and have a look - the code is also open source!
+    Click on the image and have a look
   </tr>
   <tr>
-    <a href="https://artiscapeboutique.com/"><img src="astro.jpg" /></a>
+    <a href="https://dealixio.com/"><img src="astro.jpg" /></a>
   </tr>
 </table>
 
