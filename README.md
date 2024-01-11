@@ -24,7 +24,7 @@ I believe that understanding how technologies work and are implemented at a lowe
     Click on the image and have a look
   </tr>
   <tr>
-    <a href="https://dealixio.com/"><img src="astro.jpg" /></a>
+    <a href="https://dealixio.com/"><img src="dealixio-github.jpg" /></a>
   </tr>
 </table>
 
