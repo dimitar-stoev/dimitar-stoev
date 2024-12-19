@@ -24,7 +24,7 @@ I believe that understanding how technologies work and are implemented at a lowe
     Click on the image and have a look
   </tr>
   <tr>
-    <a href="https://spacepixel.app/"><img src="spacepixel-github.jpg" /></a>
+    <a href="https://spacepixel.app/"><img src="spacepixel-github.png" /></a>
   </tr>
 </table>
 
