@@ -17,12 +17,15 @@ I believe that understanding how technologies work and are implemented at a lowe
 
 <table>
   <tr>
-    Dealixio - invoices, Client management, proposals and quotes and more.
+    SpacePixel - the app for astrophotographers.
   </tr>
+  <br/>
   <br/>
   <tr>
     Click on the image and have a look
   </tr>
+  <br/>
+  <br/>
   <tr>
     <a href="https://spacepixel.app/"><img src="spacepixel-banner.png" /></a>
   </tr>
