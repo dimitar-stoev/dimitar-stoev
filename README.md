@@ -1,69 +1,50 @@
-### Hi there 👋🏻
+# Hi there, I'm Dimitar Stoev 👋🏻
+### Product Builder • Software Engineer • Stoic
 
-<br/>
+I am a software engineer and product owner obsessed with making ideas work. I focus on building practical applications that solve real-world problems, deliver great user experiences, and get delivered on time. 
 
-# More about me [Dimitar Stoev](https://stoev.dev)
+I am a strong believer in open education and transparency, which is why **I build my business ventures and software projects completely in public.**
 
-My name is Dimitar Stoev, and I'm a software engineer with a passion for developing a wide range of applications, from web technologies and representative websites to mobile applications. I'm a productivity geek with a strong belief in the hustle culture, and I strive to get things done on time with a high-quality product spirit.
+---
 
-I'm a strong believer in open source and free education, and that's why I am building almost all my projects in public!
+## 🚀 Active Projects
 
-I believe that understanding how technologies work and are implemented at a lower level is essential to providing better, high-quality service and consultation. That's why I prefer to work with serious technologies and write quality, well-tested code. My preferred stack includes Angular and VueJS on the frontend, and NestJS and Express.js on the backend.
+### 🧹 [SpotlessGiG](https://spotlessgig.com)
+The largest open directory for independent cleaning professionals and boutique agencies in Bulgaria. It’s a zero-commission platform designed to connect homeowners directly with local cleaners, cutting out the middleman entirely so clients save money and cleaners keep 100% of their hard-earned wages.
 
+### 🌌 [SpacePixel](https://spacepixel.app)
+A specialized application designed specifically for astrophotographers to manage and process their night-sky photography.
 
-<br/>
+[![SpacePixel Banner](spacepixel-banner.png)](https://spacepixel.app)
 
-# Currently building..
+---
 
-<table>
-  <tr>
-    SpacePixel - the app for astrophotographers.
-  </tr>
-  <br/>
-  <br/>
-  <tr>
-    Click on the image and have a look
-  </tr>
-  <br/>
-  <br/>
-  <tr>
-    <a href="https://spacepixel.app/"><img src="spacepixel-banner.png" /></a>
-  </tr>
-</table>
+## 📝 Writing & Sharing Knowledge
 
-# Some of my articles
+I love writing articles that break down complicated topics—whether it's software architecture or emerging technology—into simple, easy-to-digest concepts with a bit of humor thrown in. 
 
-🔸 [How I structure my angular applications](https://www.stoev.dev/blog/how-i-structure-my-angular-applications) <br/>
-🔸 [What is Blockchain and my opinion for it's future](https://www.stoev.dev/blog/what-is-blockchain) <br/>
-🔸 [Angular view children and content children](https://www.stoev.dev/blog/angular-view-children-and-content-children) <br/>
-🔸 [Angular data binding](https://www.stoev.dev/blog/angular-data-binding) <br/>
-🔸 [Angular concept view in 5 minutes](https://www.stoev.dev/blog/angular-concept-view-in-5-minutes) <br/>
+🔸 [How I structure my angular applications](https://www.stoev.dev/blog/how-i-structure-my-angular-applications)  
+🔸 [What is Blockchain and my opinion for it's future](https://www.stoev.dev/blog/what-is-blockchain)  
+🔸 [Angular view children and content children](https://www.stoev.dev/blog/angular-view-children-and-content-children)  
+🔸 [Angular data binding](https://www.stoev.dev/blog/angular-data-binding)  
+🔸 [Angular concept view in 5 minutes](https://www.stoev.dev/blog/angular-concept-view-in-5-minutes)  
 
-I absolutely love writing articles, especially technical ones. Yes, I know it's not everyone's cup of tea, but there's just something about the challenge of explaining complex topics in a way that's easy for others to understand that gets me fired up.
+You can read all my latest thoughts over on my personal blog at [stoev.dev](https://stoev.dev).
 
-Some people may find it a bit nerdy or boring, but for me, it's like solving a puzzle. The feeling of accomplishment I get when I finally figure out how to explain a difficult concept in a way that clicks for someone else is just priceless.
+---
 
-And let's not forget the humor - I mean, who doesn't love a good tech pun or two? Sometimes, when I'm writing, I like to throw in a joke or a witty comment just to keep things light and interesting.
+## 🏛️ Mindset & Philosophy
 
-But in all seriousness, writing technical articles is not just a passion of mine, it's also a way for me to share my knowledge with others and help them to understand the things that I find fascinating. It's a way for me to give back to the community and hopefully make a positive impact on the world. So yeah, you could say I'm a bit of a geek, but hey, someone's got to do it!
+Outside of building software, I am deeply committed to **Stoicism** and personal development. I make it a point to practice mental discipline, focus on what is within my control, and tackle the daily grind of entrepreneurship with consistency and patience, one step at a time.
 
-### ✉️ Contact
+---
 
-Want to hear me? 
-I'd love to chat!
+## 🤝 Let's Connect
 
-<a href="mailto:contact@stoev.dev">contact@stoev.dev</a>
+Whether you want to discuss a potential project, talk about building apps, or just chat about philosophy, feel free to reach out!
 
+📧 **Email:** [contact@stoev.dev](mailto:contact@stoev.dev)  
 
-### 🔗 Let's Connect
-
-<br/>
-
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/dimitar-g-stoev/)
-[![](https://img.shields.io/twitter/follow/dimitar__stoev?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/dimitar__stoev)
-
-### Stoicism
-
-I am a passionate believer in stoicism and spiritual and mental growth. I have read a lot of books on the topics and made myself a promise to try to be a real stoic.
-
-And I think I am succeeding one step at a time.
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimitar-g-stoev/)
+[![Twitter](https://img.shields.io/twitter/follow/dimitar__stoev?label=Twitter&logo=twitter&style=for-the-badge&color=blue)](https://twitter.com/dimitar__stoev)
+[![Mastodon](https://img.shields.io/badge/mastodon-%23563d7c.svg?&style=for-the-badge&logo=mastodon&logoColor=white)](https://social.stoev.dev/@stoev)
